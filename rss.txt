@@ -1,0 +1,83 @@
+1. AIP Conference Proceedings: Table of Contents	https://aip.scitation.org/feed/apc/most-recent
+2. Annual Reviews: Annual Review of Physical Chemistry: Table of Contents	http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=sy&jc=physchem&type=etoc&feed=rss
+3. Annual Reviews: Annual Review of Plant Biology: Table of Contents	http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=sr&jc=arplant&type=etoc&feed=rss
+5. Biocontrol Science and Technology: Table of Contents	https://www.tandfonline.com/feed/rss/cbst20
+6. Bioengineered	https://www.tandfonline.com/feed/rss/kbie20
+7. Bioinformatics - Advance Access	http://bioinformatics.oxfordjournals.org/rss/ahead.xml
+8. Biomolecules	http://www.mdpi.com/rss/journal/biomolecules
+9. bioRxiv Subject Collection: Genomics Bioinformatics Plant Biology Molecular Biology	http://connect.biorxiv.org/biorxiv_xml.php?subject=genomics+bioinformatics+plant_biology+molecular_biology
+10. BMC Bioinformatics	https://bmcbioinformatics.biomedcentral.com/articles/most-recent/rss.xml
+11. BMC Genomics - Latest Articles	http://www.biomedcentral.com/bmcgenomics/latest/rss
+12. BMC Plant Biology	http://www.biomedcentral.com/bmcplantbiol/latest/rss
+13. Comprehensive Reviews in Food Science and FoodSafety	https://onlinelibrary.wiley.com/feed/15414337/most-recent
+14. Computational biology and bioinformatics	https://www.nature.com/subjects/computational-biology-and-bioinformatics.rss
+15. Critical Reviews in Biotechnology	https://www.tandfonline.com/feed/rss/ibty20
+16. Critical Reviews in Food Science and Nutrition: Table of Contents: Taylor and Francis	https://www.tandfonline.com/action/showFeed?ui=0&mi=dbflfj&ai=1ls&jc=bfsn20&type=etoc&feed=rss
+17. Current Opinion in Plant Biology	http://rss.sciencedirect.com/publication/science/13695266
+18. Ecotoxicology and Environmental Safety	http://rss.sciencedirect.com/publication/science/01476513
+19. Environmental and Experimental Botany	http://rss.sciencedirect.com/publication/science/00988472
+20. Food Chemistry	http://www.journals.elsevier.com/food-chemistry/rss/
+21. Food Research International	http://rss.sciencedirect.com/publication/science/09639969
+22. Forests	http://www.mdpi.com/rss/journal/forests
+23. Frontiers in Plant Science | New and Recent Articles	https://www.frontiersin.org/journals/plant-science/rss
+24. Functional &amp; Integrative Genomics	https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10142&amp;channel-name=Functional+%26+Integrative+Genomics
+"25. G3: Genes, Genomes, Genetics Mission"	https://www.g3journal.org/rss/ahead.xml
+26. Genes	http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13258&amp;channel-name=Genes%20&amp;%20Genomics
+27. Genome Biology	https://genomebiology.biomedcentral.com/articles/most-recent/rss.xml
+28. Genome Research current issue	https://genome.cshlp.org/rss/current.xml
+"29. Genomics, Proteomics &amp; Bioinformatics"	http://rss.sciencedirect.com/publication/science/16720229
+30. Horticulture Research - nature.com science feeds	http://feeds.nature.com/hortres/rss/current
+31. Inderscience	http://www.inderscience.com/rss/rss.php
+32. International Journal of Molecular Sciences	http://www.mdpi.com/rss/journal/ijms
+33. JAFC	http://feeds.feedburner.com/acs/jafcau
+34. JIPB	http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1744-7909
+"35. Journal of Agricultural, Biological, and Environmental Statistics"	"http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13253&amp;channel-name=Journal%20of%20Agricultural,%20Biological,%20and%20Environmental%20Statistics"
+36. Journal of Bioinformatics and Computational Biology: Table of Contents	http://www.worldscinet.com/jbcb/jbcb.rss
+37. Journal of Chemical Ecology	https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10886&amp;channel-name=Journal+of+Chemical+Ecology
+38. Journal of Genetics and Genomics	http://rss.sciencedirect.com/publication/science/16738527
+40. Journal of the Science of Food and Agriculture	http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1097-0010
+41. JXB	http://jxb.oxfordjournals.org/rss/current.xml
+42. Latest Results for Planta	https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=425&amp;channel-name=Planta
+43. LWT - Food Science and Technology	http://rss.sciencedirect.com/publication/science/00236438
+44. Molecular Biology and Evolution	https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml
+45. Molecular Genetics and Genomics	http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=438&amp;channel-name=Molecular%20Genetics%20and%20Genomics
+46. Molecular Plant	http://www.cell.com/molecular-plant/inpress.rss
+47. Molecules	http://www.mdpi.com/rss/journal/molecules
+48. mSystems recent issues	https://msystems.asm.org/rss/recent.xml
+49. Nature Communications	http://feeds.nature.com/ncomms/rss/current
+50. Nature Plants - nature.com science feeds	http://feeds.nature.com/nplants/rss/current
+51. New Phytologist	https://nph.onlinelibrary.wiley.com/action/showFeed?jc=14698137&type=etoc&feed=rss
+52. Nordic Journal of Botany	http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1756-1051
+53. PBJ	http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1467-7652
+54. PC	http://www.plantcell.org/rss/ahead.xml
+55. PCP	http://pcp.oxfordjournals.org/rss/ahead.xml
+56. PeerJ	https://peerj.com/articles/index.rss2
+57. PJ	http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-313X
+58. Plant Breeding	http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1439-0523
+59. Plant Cell Reports	http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=299&amp;channel-name=Plant%20Cell%20Reports
+60. Plant Communications	http://rss.sciencedirect.com/publication/science/25903462
+61. Plant Methods	http://www.plantmethods.com/latest/rss
+62. Plant Molecular Biology	http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=11103&amp;channel-name=Plant%20Molecular%20Biology
+63. Plant Science	http://rss.sciencedirect.com/publication/science/01689452
+64. Plant Science Research	https://plantae.org/category/research/what-were-reading-this-week/feed/
+65. Plant Signaling &amp; Behavior: Table of Contents	https://www.tandfonline.com/feed/rss/kpsb20
+"66. Plant, Cell &amp; Environment"	http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-3040
+67. Plants	https://www.mdpi.com/rss/journal/plants
+68. PLOS Computational Biology	https://journals.plos.org/ploscompbiol/feed/atom
+69. PLOS Genetics	https://journals.plos.org/plosgenetics/feed/atom
+70. PNAS	http://www.pnas.org/rss/ahead.xml
+71. PP	http://www.plantphysiol.org/rss/current.xml
+72. PPB	http://rss.sciencedirect.com/publication/science/09819428
+"73. ""Proteins: Structure, Function, and Bioinformatics"""	https://onlinelibrary.wiley.com/feed/10970134/most-recent
+74. RNA	http://rnajournal.cshlp.org/rss/current.xml
+75. RNA Biology: Table of Contents	https://www.tandfonline.com/feed/rss/krnb20
+76. Science of The Total Environment	http://rss.sciencedirect.com/publication/science/00489697
+77. Scientia Horticulturae	http://rss.sciencedirect.com/publication/science/03044238
+78. Scientific Data - nature.com science feeds	http://feeds.nature.com/sdata/rss/current
+79. Scientific Reports - nature.com science feeds	http://feeds.nature.com/srep/rss/current
+80. The Plant Cell current issue	http://www.plantcell.org/rss/current.xml
+82. Tree Genetics	http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=11295&amp;channel-name=Tree%20Genetics%20&amp;%20Genomes
+83. Tree Genetics &amp; Genomes	https://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=11295&amp;channel-name=Tree+Genetics+%26+Genomes
+84. Tree Physiology	http://treephys.oxfordjournals.org/rss/ahead.xml
+85. Trends in Food Science &amp; Technology	http://rss.sciencedirect.com/publication/science/09242244
+86. Trends in Plant Science	http://www.cell.com/rssFeed/plant-science/rss.NewArticles.xml
